@@ -5,7 +5,6 @@
 package org.fup;
 
 /**
- *
  * @author 4616166
  */
 public class Prueba {
@@ -14,9 +13,9 @@ public class Prueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Arreglo objeto=new Arreglo();
+        Arreglo objeto = new Arreglo();
         objeto.registrarPrecios();
         objeto.listar();
     }
-    
+
 }
